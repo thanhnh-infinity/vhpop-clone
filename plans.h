@@ -31,6 +31,13 @@
 #include "flaws.h"
 #include "orderings.h"
 
+#include <stdint.h>
+#include <string>
+//#include <sstream>
+//#include <iostream>
+#include <vector>
+
+
 struct Parameters;
 struct SubstitutionList;
 struct Literal;
@@ -353,7 +360,7 @@ private:
   void handle_inequality(PlanList& plans, const Inequality& neq,
 			 const OpenCondition& open_cond) const;
 
-  const std::string& Plan::get_step_name(const size_t step_id) const;
+  const std::string& get_step_name(const size_t step_id) const;
 
   /* Handles a literal open condition by adding a new step. */
   void add_step(PlanList& plans, const Literal& literal,

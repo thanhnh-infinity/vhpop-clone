@@ -1,4 +1,4 @@
-requirements.o requirements.o: requirements.cc requirements.h config.h
+requirements.o: requirements.cc requirements.h config.h
 
 requirements.h:
 

@@ -25,6 +25,12 @@
 #include "chain.h"
 #include "hashing.h"
 
+#include <stdint.h>
+#include <string>
+//#include <sstream>
+//#include <iostream>
+#include <vector>
+
 struct Reason;
 struct Step;
 struct Literal;
