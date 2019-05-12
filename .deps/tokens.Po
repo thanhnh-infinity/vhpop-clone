@@ -1,0 +1,241 @@
+tokens.o tokens.o: tokens.cc /usr/include/stdio.h /usr/include/_ansi.h \
+  /usr/include/newlib.h /usr/include/sys/config.h \
+  /usr/include/machine/ieeefp.h /usr/include/cygwin/config.h \
+  /usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/stddef.h \
+  /usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/stdarg.h \
+  /usr/include/sys/reent.h /usr/include/sys/_types.h \
+  /usr/include/sys/lock.h /usr/include/sys/types.h \
+  /usr/include/machine/types.h /usr/include/sys/features.h \
+  /usr/include/cygwin/types.h /usr/include/sys/sysmacros.h \
+  /usr/include/stdint.h /usr/include/sys/stdio.h /usr/include/errno.h \
+  /usr/include/sys/errno.h /usr/include/stdlib.h \
+  /usr/include/machine/stdlib.h /usr/include/alloca.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h getopt.h \
+  /usr/include/ctype.h /usr/include/c++/3.3.3/cctype \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/c++config.h \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/os_defines.h \
+  /usr/include/c++/3.3.3/string /usr/include/c++/3.3.3/bits/stringfwd.h \
+  /usr/include/c++/3.3.3/bits/char_traits.h \
+  /usr/include/c++/3.3.3/cstring /usr/include/c++/3.3.3/cstddef \
+  /usr/include/string.h /usr/include/c++/3.3.3/bits/fpos.h \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/c++io.h \
+  /usr/include/c++/3.3.3/cstdio \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/gthr.h \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/gthr-default.h \
+  /usr/include/pthread.h /usr/include/signal.h /usr/include/sys/signal.h \
+  /usr/include/cygwin/signal.h /usr/include/sched.h /usr/include/time.h \
+  /usr/include/machine/time.h /usr/include/c++/3.3.3/cwchar \
+  /usr/include/c++/3.3.3/ctime /usr/include/wchar.h \
+  /usr/include/c++/3.3.3/memory \
+  /usr/include/c++/3.3.3/bits/stl_algobase.h \
+  /usr/include/c++/3.3.3/climits \
+  /usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/limits.h \
+  /usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/syslimits.h \
+  /usr/include/limits.h /usr/include/c++/3.3.3/cstdlib \
+  /usr/include/c++/3.3.3/new /usr/include/c++/3.3.3/exception \
+  /usr/include/c++/3.3.3/iosfwd \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/c++locale.h \
+  /usr/include/c++/3.3.3/clocale /usr/include/locale.h \
+  /usr/include/c++/3.3.3/bits/functexcept.h \
+  /usr/include/c++/3.3.3/exception_defines.h \
+  /usr/include/c++/3.3.3/bits/stl_pair.h \
+  /usr/include/c++/3.3.3/bits/type_traits.h \
+  /usr/include/c++/3.3.3/bits/stl_iterator_base_types.h \
+  /usr/include/c++/3.3.3/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/3.3.3/bits/concept_check.h \
+  /usr/include/c++/3.3.3/bits/stl_iterator.h \
+  /usr/include/c++/3.3.3/bits/stl_alloc.h \
+  /usr/include/c++/3.3.3/bits/stl_threads.h \
+  /usr/include/c++/3.3.3/i686-pc-cygwin/bits/atomicity.h \
+  /usr/include/c++/3.3.3/bits/stl_construct.h \
+  /usr/include/c++/3.3.3/bits/stl_uninitialized.h \
+  /usr/include/c++/3.3.3/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/3.3.3/bits/stl_function.h \
+  /usr/include/c++/3.3.3/bits/basic_string.h \
+  /usr/include/c++/3.3.3/algorithm /usr/include/c++/3.3.3/bits/stl_algo.h \
+  /usr/include/c++/3.3.3/bits/stl_heap.h \
+  /usr/include/c++/3.3.3/bits/stl_tempbuf.h \
+  /usr/include/c++/3.3.3/bits/basic_string.tcc \
+  /usr/include/c++/3.3.3/vector /usr/include/c++/3.3.3/bits/stl_vector.h \
+  /usr/include/c++/3.3.3/bits/stl_bvector.h \
+  /usr/include/c++/3.3.3/bits/vector.tcc pddl.h
+
+/usr/include/stdio.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/newlib.h:
+
+/usr/include/sys/config.h:
+
+/usr/include/machine/ieeefp.h:
+
+/usr/include/cygwin/config.h:
+
+/usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/stddef.h:
+
+/usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/stdarg.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/lock.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/sys/features.h:
+
+/usr/include/cygwin/types.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/stdint.h:
+
+/usr/include/sys/stdio.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/errno.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/machine/stdlib.h:
+
+/usr/include/alloca.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+getopt.h:
+
+/usr/include/ctype.h:
+
+/usr/include/c++/3.3.3/cctype:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/c++config.h:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/os_defines.h:
+
+/usr/include/c++/3.3.3/string:
+
+/usr/include/c++/3.3.3/bits/stringfwd.h:
+
+/usr/include/c++/3.3.3/bits/char_traits.h:
+
+/usr/include/c++/3.3.3/cstring:
+
+/usr/include/c++/3.3.3/cstddef:
+
+/usr/include/string.h:
+
+/usr/include/c++/3.3.3/bits/fpos.h:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/c++io.h:
+
+/usr/include/c++/3.3.3/cstdio:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/gthr.h:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/signal.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/cygwin/signal.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/machine/time.h:
+
+/usr/include/c++/3.3.3/cwchar:
+
+/usr/include/c++/3.3.3/ctime:
+
+/usr/include/wchar.h:
+
+/usr/include/c++/3.3.3/memory:
+
+/usr/include/c++/3.3.3/bits/stl_algobase.h:
+
+/usr/include/c++/3.3.3/climits:
+
+/usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/limits.h:
+
+/usr/lib/gcc-lib/i686-pc-cygwin/3.3.3/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/c++/3.3.3/cstdlib:
+
+/usr/include/c++/3.3.3/new:
+
+/usr/include/c++/3.3.3/exception:
+
+/usr/include/c++/3.3.3/iosfwd:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/c++locale.h:
+
+/usr/include/c++/3.3.3/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/c++/3.3.3/bits/functexcept.h:
+
+/usr/include/c++/3.3.3/exception_defines.h:
+
+/usr/include/c++/3.3.3/bits/stl_pair.h:
+
+/usr/include/c++/3.3.3/bits/type_traits.h:
+
+/usr/include/c++/3.3.3/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/3.3.3/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/3.3.3/bits/concept_check.h:
+
+/usr/include/c++/3.3.3/bits/stl_iterator.h:
+
+/usr/include/c++/3.3.3/bits/stl_alloc.h:
+
+/usr/include/c++/3.3.3/bits/stl_threads.h:
+
+/usr/include/c++/3.3.3/i686-pc-cygwin/bits/atomicity.h:
+
+/usr/include/c++/3.3.3/bits/stl_construct.h:
+
+/usr/include/c++/3.3.3/bits/stl_uninitialized.h:
+
+/usr/include/c++/3.3.3/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/3.3.3/bits/stl_function.h:
+
+/usr/include/c++/3.3.3/bits/basic_string.h:
+
+/usr/include/c++/3.3.3/algorithm:
+
+/usr/include/c++/3.3.3/bits/stl_algo.h:
+
+/usr/include/c++/3.3.3/bits/stl_heap.h:
+
+/usr/include/c++/3.3.3/bits/stl_tempbuf.h:
+
+/usr/include/c++/3.3.3/bits/basic_string.tcc:
+
+/usr/include/c++/3.3.3/vector:
+
+/usr/include/c++/3.3.3/bits/stl_vector.h:
+
+/usr/include/c++/3.3.3/bits/stl_bvector.h:
+
+/usr/include/c++/3.3.3/bits/vector.tcc:
+
+pddl.h:
